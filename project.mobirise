@@ -158,16 +158,16 @@
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": {
-      "customDialogSelector": false,
+      "customDialogSelector": true,
       "colorText": "#232323",
       "colorBg": "#b1a374",
       "colorButton": "#32469c",
       "colorLink": "#ff3366",
       "underlineLink": true,
-      "opacity": "43",
-      "opacityOverlay": "16",
+      "opacity": "76",
+      "opacityOverlay": "70",
       "text": "Cookies helfen uns, unseren Service für Sie zu verbessern. Wenn Sie unsere Webseite weiterhin verwenden, erklären Sie sich damit einverstanden, dass wir Cookies setzen. Mehr zum Einsatz von Cookies auf dieser Seite erfahren Sie unter unserer  <a href='privacy.html'>DATENSCHUTZERKLÄRUNG</a>.",
-      "textButton": "OK"
+      "textButton": "Verstanden"
     },
     "gdpr": false,
     "uniqCompNum": 55,
